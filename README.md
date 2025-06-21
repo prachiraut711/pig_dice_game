@@ -1,4 +1,5 @@
-Game Objective:
+<h4>Game Objective:</h4>
+
 Players take turns rolling a dice (values 1 to 6).
 If they roll a 1, they lose all points for that turn and the turn ends.
 If they roll 2–6, the value adds to their current turn score.
